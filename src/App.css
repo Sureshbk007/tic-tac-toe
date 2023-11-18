@@ -1,0 +1,15 @@
+.game {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.board-row button {
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    float: left;
+    font-size: 20px;
+    font-weight: 600;
+}
