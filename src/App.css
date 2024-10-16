@@ -3,6 +3,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+}
+.board-row{
+    width: 300px;
 }
 
 .board-row button {
